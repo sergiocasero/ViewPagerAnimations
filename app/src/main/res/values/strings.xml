@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewPagerAnimations</string>
+    <string name="viewpager_title">ViewPager Amazing animations</string>
+    <string name="get_start">Get Started</string>
+</resources>

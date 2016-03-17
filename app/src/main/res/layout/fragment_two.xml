@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragment2_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg2">
+
+
+    <ImageView
+        android:id="@+id/watch"
+        android:layout_width="300dp"
+        android:layout_height="450dp"
+        android:src="@drawable/watch"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:id="@+id/hour"
+        android:layout_width="300dp"
+        android:layout_height="450dp"
+        android:src="@drawable/hour"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:id="@+id/minute"
+        android:layout_width="300dp"
+        android:layout_height="450dp"
+        android:src="@drawable/minute"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:id="@+id/second"
+        android:layout_width="300dp"
+        android:layout_height="450dp"
+        android:src="@drawable/second"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+
+</RelativeLayout>
